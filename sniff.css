@@ -1,0 +1,111 @@
+#sniffies-map>div.main-content>div.overset.ng-scope {
+    display: none !important
+}
+
+advertising-zone-map {
+    display: none !important
+}
+
+advertising-house-ads {
+    display: none !important
+}
+
+#contribution {
+    display: none !important
+}
+
+modal-features {
+    display: none !important
+}
+
+modal-features[feature=overview] {
+    display: none !important
+}
+
+div[ng-if="advertisingCtrl.advertisingIsEnabled"] .sidebar {
+    display: none !important
+}
+
+div[ng-if="advertisingCtrl.advertisingIsEnabled"] {
+    display: none !important
+}
+
+#popup {
+    display: none !important
+}
+
+modal[ng-if*="mainCtrl.showLocationError"] {
+    display: none !important
+}
+
+.map-container {
+    width: 100% !important
+}
+
+.mapboxgl-canvas-container.mapboxgl-touch-zoom-rotate.mapboxgl-touch-drag-pan {
+    width: 100% !important
+}
+
+.mapboxgl-canvas-container.mapboxgl-touch-zoom-rotate.mapboxgl-touch-drag-pan .mapboxgl-canvas {
+    width: 100% !important
+}
+
+.tray-pull-icon {
+    pointer-events: none !important
+}
+
+.tray-open {
+    transform: translateY(0) !important
+}
+
+#sniffies-map>div.main-content>div.overset.ng-scope {
+    display: none !important
+}
+
+advertising-zone-map {
+    display: none !important
+}
+
+advertising-house-ads {
+    display: none !important
+}
+
+#contribution {
+    display: none !important
+}
+
+.map-container {
+    width: 100% !important
+}
+
+#popup {
+    display: none !important
+}
+
+.map-container {
+    width: 100% !important
+}
+
+.mapboxgl-canvas-container.mapboxgl-touch-zoom-rotate.mapboxgl-touch-drag-pan {
+    width: 100% !important
+}
+
+.mapboxgl-canvas-container.mapboxgl-touch-zoom-rotate.mapboxgl-touch-drag-pan .mapboxgl-canvas {
+    width: 100% !important
+}
+
+div[ng-if="advertisingCtrl.advertisingIsEnabled"] .sidebar {
+    display: none !important
+}
+
+div[ng-if="advertisingCtrl.advertisingIsEnabled"] {
+    display: none !important
+}
+
+modal-features[feature="overview"] {
+    display: none !important
+}
+
+modal[ng-if*="mainCtrl.showLocationError"] {
+    display: none !important
+}
