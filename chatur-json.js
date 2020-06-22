@@ -1,17 +1,3 @@
-// ==UserScript==
-// @name           Chaturbate JSON
-// @version        4.7
-// @namespace      cam4_goes_droopy
-// @description    cam4 cleanup
-// @include        https://chaturbate.com/male-cams/
-// @require        http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
-// @require        https://code.jquery.com/jquery-3.1.0.js
-// @require        https://www.jqueryscript.net/demo/Easy-jQuery-Progress-Bar-Timer-Plugin-For-Bootstrap-3-progressTimer/js/jquery.progressTimer.js
-// @require        https://www.codepile.net/raw/d7XavNlP.js
-// @grant          GM_xmlhttpRequest
-// @run-at         document-start
-// ==/UserScript==
-
 $(function(){
 
     console.log('=============||||| RUNNING CHATURBATE JSON |||||==============');
