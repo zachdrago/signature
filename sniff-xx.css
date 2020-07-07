@@ -110,9 +110,6 @@ modal[ng-if*="mainCtrl.showLocationError"] {
     display: none !important
 }
 
-.hosting {
-    border: 2px solid #debe53 !important;
-}
 
 .map-container.notice {
     border: 2px solid #debe53 !important;
