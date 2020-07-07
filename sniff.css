@@ -109,3 +109,8 @@ modal-features[feature="overview"] {
 modal[ng-if*="mainCtrl.showLocationError"] {
     display: none !important
 }
+
+.hosting,
+.map-container.notice {
+    border: 2px solid #debe53 !important;
+}
