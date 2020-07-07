@@ -111,6 +111,10 @@ modal[ng-if*="mainCtrl.showLocationError"] {
 }
 
 
+.notice-title p {
+    background: #debe53 !important;
+}
+
 .map-container.notice {
     border: 2px solid #debe53 !important;
 }
