@@ -200,7 +200,7 @@ modal[ng-if*="mainCtrl.showLocationError"] {
 
 
 
-.chat-messages-panel {
+.his-profile .chat-messages-panel {
     width: 50% !important;
     right: 0;
     background: #444;
