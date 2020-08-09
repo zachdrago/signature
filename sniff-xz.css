@@ -165,7 +165,7 @@ modal[ng-if*="mainCtrl.showLocationError"] {
 }
 
 .profile-panel-inner-content .panel-upper-overlay {
-    display: none;
+    /*display: none;*/
 }
 
 
