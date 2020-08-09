@@ -118,3 +118,95 @@ modal[ng-if*="mainCtrl.showLocationError"] {
 .map-container.notice {
     border: 2px solid #debe53 !important;
 }
+
+
+
+
+
+
+
+/* ======================================== Profile/chat adjustments  =====================================*/
+
+#sniffies-infowindow .app-panel {
+    background: #1B1F25 !important;
+}
+
+.his-profile .app-screen {
+    max-width: 960px !important;
+}
+
+.his-profile .app-panel {
+    max-width: 960px !important;
+}
+
+.profile-overlay {
+    display: none !important;
+}
+
+
+.panel-header p {
+    width: 50% !important;
+}
+
+
+.panel-upper-overlay {
+    width: 50% !important;
+}
+
+.panel-upper-controls {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    text-align: center;
+    height: 50px;
+    display: table;
+    padding: 3px 10px;
+}
+
+.profile-panel-inner-content .panel-upper-overlay {
+    display: none;
+}
+
+
+.profile-image-container.cropped {
+    width: 50% !important;
+    position: absolute !important;
+    right: unset !important;
+}
+
+.his-profile tray-slider-bottom .tray {
+    width: 50% !important;
+    left: unset !important;
+    right: 0;
+    
+    transform-origin: center bottom !important;
+    transform: translateY(0px) !important;
+    margin-bottom: 0px !important;
+    cursor: grab !important;
+    padding: 20px 10px 10px !important;
+    border-top: none !important;
+}
+
+.his-profile #tray-pull {
+    display: none !important;
+}
+
+
+
+
+
+
+
+
+
+.chat-messages-panel {
+    width: 50% !important;
+    right: 0;
+    background: #444;
+}
+
+.chat-input-panel {
+    width: 50% !important;
+    right: 0;
+}
