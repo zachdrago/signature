@@ -134,10 +134,12 @@ modal[ng-if*="mainCtrl.showLocationError"] {
     background: #1B1F25 !important;
 }
 
+.my-profile .app-screen,
 .his-profile .app-screen {
     max-width: 960px !important;
 }
 
+.my-profile .app-panel,
 .his-profile .app-panel {
     max-width: 960px !important;
 }
@@ -179,6 +181,7 @@ background: transparent !important;
     right: unset !important;
 }
 
+.my-profile tray-slider-bottom .tray,
 .his-profile tray-slider-bottom .tray {
     width: 50% !important;
     left: unset !important;
@@ -282,7 +285,6 @@ tray-slider-bottom .tray {
 .received_message.global.hosting .body-text, .received_message.global.hosting .fa {
 	color: #f79b50 !important;
 }
-
 
 
 
