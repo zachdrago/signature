@@ -179,7 +179,7 @@
             return;
         }
 
-        document.attachEvent('on' + type, callback);
+        // document.attachEvent('on' + type, callback);
     }
 
     /**
