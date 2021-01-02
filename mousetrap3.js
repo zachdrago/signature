@@ -174,10 +174,10 @@
      * @returns void
      */
     function _addEvent(object, type, callback) {
-        if (object.addEventListener) {
+        // if (object.addEventListener) {
             document.addEventListener(type, callback, false);
             return;
-        }
+        // }
 
         // document.attachEvent('on' + type, callback);
     }
