@@ -1,0 +1,33 @@
+{
+  "all-mons": [
+    {
+      "_id": "gen8pk898",
+      "caught": false,
+      "generation": "8",
+      "inGame": false,
+      "index": 897,
+      "number": 898,
+      "pokename": "Calyrex",
+      "alt_forms": [
+        {
+          "_id": "gen8pk898-ice",
+          "caught": false,
+          "generation": "8",
+          "inGame": false,
+          "index": 897,
+          "number": "898-ice",
+          "pokename": "Calyrex (Ice Rider)"
+        },
+        {
+          "_id": "gen8pk898-shadow",
+          "caught": false,
+          "generation": "8",
+          "inGame": false,
+          "index": 897,
+          "number": "898-shadow",
+          "pokename": "Calyrex (Shadow Rider)"
+        }
+      ]
+    }
+  ]
+}
